@@ -1,8 +1,5 @@
-module github.com/pm-redemption/go-pinyin
+module github.com/pm-redemption/pinyin
 
 go 1.14
 
-require (
-	github.com/mattn/go-isatty v0.0.10
-	github.com/pm-esd/go-pinyin v0.19.0
-)
+require github.com/mattn/go-isatty v0.0.10

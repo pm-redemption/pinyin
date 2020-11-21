@@ -1,0 +1,5 @@
+github.com/mattn/go-isatty v0.0.10 h1:qxFzApOv4WsAL965uUPIsXzAKCZxN2p9UqdhFS4ZW10=
+github.com/mattn/go-isatty v0.0.10/go.mod h1:qgIWMr58cqv1PHHyhnkY9lrL7etaEgOFcMEpPG5Rm84=
+github.com/pm-esd/go-pinyin v0.19.0 h1:wt7jMVz+6XB/5ykKtl7qO6h0pbC12Cy9z0Z9ibFeWok=
+github.com/pm-esd/go-pinyin v0.19.0/go.mod h1:vzYwcl7TxtDfpq8t40osYsAAiRUoPC9lMjMpBWS1F/I=
+golang.org/x/sys v0.0.0-20191008105621-543471e840be/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
