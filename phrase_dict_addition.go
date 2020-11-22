@@ -1,7 +1,7 @@
 package pinyin
 
 /*
-	go-pinyin addition version
+	pinyin addition version
 */
 var phraseDictAddition = map[string]string{
 	"宿舍": "sù shè",

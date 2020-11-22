@@ -1,10 +1,10 @@
-go-pinyin
+pinyin
 =========
 
-[![Build Status](https://travis-ci.org/mozillazg/go-pinyin.svg?branch=master)](https://travis-ci.org/mozillazg/go-pinyin)
-[![Coverage Status](https://coveralls.io/repos/mozillazg/go-pinyin/badge.svg?branch=master)](https://coveralls.io/r/mozillazg/go-pinyin?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/pm-redemption/go-pinyin)](https://goreportcard.com/report/github.com/pm-redemption/go-pinyin)
-[![GoDoc](https://godoc.org/github.com/pm-redemption/go-pinyin?status.svg)](https://godoc.org/github.com/pm-redemption/go-pinyin)
+[![Build Status](https://travis-ci.org/mozillazg/pinyin.svg?branch=master)](https://travis-ci.org/mozillazg/pinyin)
+[![Coverage Status](https://coveralls.io/repos/mozillazg/pinyin/badge.svg?branch=master)](https://coveralls.io/r/mozillazg/pinyin?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pm-redemption/pinyin)](https://goreportcard.com/report/github.com/pm-redemption/pinyin)
+[![GoDoc](https://godoc.org/github.com/pm-redemption/pinyin?status.svg)](https://godoc.org/github.com/pm-redemption/pinyin)
 
 汉语拼音转换工具 Go 版。
 
@@ -13,13 +13,13 @@ Installation
 ------------
 
 ```
-go get -u github.com/pm-redemption/go-pinyin
+go get -u github.com/pm-redemption/pinyin
 ```
 
 install CLI tool:
 
 ```
-go get -u github.com/pm-redemption/go-pinyin/cmd/pinyin
+go get -u github.com/pm-redemption/pinyin/cmd/pinyin
 $ pinyin 中国人
 zhōng guó rén
 ```
@@ -29,7 +29,7 @@ Documentation
 --------------
 
 API documentation can be found here:
-https://godoc.org/github.com/pm-redemption/go-pinyin
+https://godoc.org/github.com/pm-redemption/pinyin
 
 
 Usage
@@ -40,7 +40,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pm-redemption/go-pinyin"
+	"github.com/pm-redemption/pinyin"
 )
 
 func main() {

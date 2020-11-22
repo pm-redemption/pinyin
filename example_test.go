@@ -3,7 +3,7 @@ package pinyin_test
 import (
 	"fmt"
 
-	"github.com/pm-esd/go-pinyin"
+	"github.com/pm-redemption/pinyin"
 )
 
 func ExampleConvert() {
